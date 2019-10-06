@@ -1,4 +1,4 @@
-/* Make a function that calculates the first n fibonacci numbers. Bonus points if it is recursive! */
+// Make a function that calculates the first n fibonacci numbers. Bonus points if it is recursive! 
 
 
 // To print fibonacci series in C programming language

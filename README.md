@@ -5,3 +5,7 @@
  
  If you are using any concept directly make sure to explain that using multiline comments.
  
+#### Contents:
+> * Add function
+> * Fibonacci series
+> * Linear search

@@ -4,3 +4,8 @@
  #Add whatever sample program you feel like is necessary for a beginner and make sure to add enough comments so that a beginner understands just by reading what each line of the code does !
  
  If you are using any concept directly make sure to explain that using multiline comments.
+ 
+### Contents:
+> * Add function
+> * Fibonacci series
+> * Linear search

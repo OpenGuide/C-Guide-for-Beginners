@@ -1,3 +1,4 @@
+//palindrome number check
 void pal(int n)
 {
 num=n;

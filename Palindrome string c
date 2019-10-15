@@ -2,7 +2,7 @@
 #include <string.h>
 // A function to check if a string str is palindrome
 void isPalindrome(char str[])
-{
+{ //Hacktoberfest
     // Start from leftmost and rightmost corners of str
     int l = 0;
     int h = strlen(str) - 1;
